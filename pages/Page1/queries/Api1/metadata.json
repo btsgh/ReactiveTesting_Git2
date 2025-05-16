@@ -50,9 +50,9 @@
       "name": "GSheetsDS",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "Api1",
     "pageId": "Page1",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
