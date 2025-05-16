@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "6826ad052fb9f24b943c4046_4a0960b0-d400-4cc1-9c8f-e6197265a6cf",
+  "id": "Page1_UsersMod11",
+  "moduleUUID": "8244cc1d-b846-463c-a87f-ac5b73115e58",
+  "packageUUID": "5cd7d13a-1f09-44be-80df-014565b23adb",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "10"
+    },
+    "moduleInputs": {
+      "ptlphldonf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "10",
+        "id": "ptlphldonf",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
+    "name": "UsersMod11",
+    "pageId": "Page1"
+  }
+}
